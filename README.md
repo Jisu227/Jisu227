@@ -2,7 +2,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jisu227&theme=dark_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jisu227&theme=dracula_icons=true)
 
 <!--
 **Jisu227/Jisu227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
